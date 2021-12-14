@@ -3,5 +3,5 @@
 - other functions may be used
 - in the case of Tetration:
   - f(x, c) = c ** x
-  - 2-cycle for x < e ** (-e)
+  - limit cycle for x < e ** (-e)
   - diverges to infinity for x > e ** (1/e)

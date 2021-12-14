@@ -1,5 +1,5 @@
 # Tetration
-- given a function f(x, c) visualizing convergence of Tetration given x ∈ ℝ for different values of x
+- given a function f(x, c) visualizing limit behavior for tetration given x ∈ ℝ for different values of x
 - other functions may be used
 - in the case of Tetration:
   - f(x, c) = c ** x
